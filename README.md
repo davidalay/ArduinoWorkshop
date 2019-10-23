@@ -1,2 +1,1 @@
-# ArduinoWorkshop
-Introductory Arduino Workshop created for the Electronics Prototyping Laboratory at Portland State
+# ArduinoWorkshopIntroductory Arduino Workshop created for the Electronics Prototyping Laboratory at Portland State.Originally Created by [Tyler Hull](https://github.com/tylerhull) for the EPL. Updated by [David Lay](https://github.com/davidalay)
